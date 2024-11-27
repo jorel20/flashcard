@@ -1,17 +1,17 @@
 criaCartao(
-    'Charadas',
-    'em que ano foi criada a banda colo de Deus?',
+    'Colo de Deus',
+    'Em que ano foi criada a banda colo de Deus?',
     '2003'
 )
 
 criaCartao(
-    'Charadas',
-    'quantos anos a banda tem?',
-    '20'
+    'Colo de Deus',
+    'Quantos anos a banda tem?',
+    '21'
 )
 
 criaCartao(
-    'Charadas',
-    'qual a sua musica mais tocada?',
-    'jesus meu esposo'
+    'Colo de Deus',
+    'Qual a sua musica mais tocada?',
+    'Jesus meu esposo'
 )
